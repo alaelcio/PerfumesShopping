@@ -1,4 +1,4 @@
 # PerfumesShopping
 <h1>
-        <img src="./src/assets/Reamd.png" alt="">
+        <img src="./reamd.gif" alt="">
     </h1>
